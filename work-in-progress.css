@@ -1,0 +1,40 @@
+html{
+    height:100%
+}
+
+body{
+    margin: 0;
+    padding: 0px;
+    background: url(src/img/mechanical-engineering-2993233_1920.jpg) no-repeat center fixed;
+    background-size: cover;
+    max-height: 100%;
+}
+
+.text{
+    width:25%;
+    padding-left: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    
+}
+
+.text2{
+    width:25%;
+    padding-left: 50px;
+  
+}
+
+h1{
+    color:#f7f1e3;
+    font-family:'Roboto', sans-serif;
+    text-align: center;
+    font-weight: 900;
+}
+
+    
+
+
+
+
+
